@@ -15,7 +15,7 @@ html,body{
 .section1{
     height:100%;
     width: 97vw;
-    background: url(assests/goutham-krishna-h5wvMCdOV3w-unsplash.webp);
+    background: url(goutham-krishna-h5wvMCdOV3w-unsplash.webp);
     background-size: cover;
     padding: 10px;
     position: relative;
@@ -134,7 +134,7 @@ name h4{
 .image{
     width:50%;
     height: 100%;
-    background:url(/assests/leaves.jpg);
+    background:url(leaves.jpg);
     background-size: cover;
 }
 
